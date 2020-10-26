@@ -1,0 +1,7 @@
+c:\users\gökalp\documents\visual studio 2015\Projects\OnlineStrore\OnlineStore\OnlineSotre.Data.Contracts\bin\Debug\OnlineSotre.Data.Contracts.dll
+c:\users\gökalp\documents\visual studio 2015\Projects\OnlineStrore\OnlineStore\OnlineSotre.Data.Contracts\bin\Debug\OnlineSotre.Data.Contracts.pdb
+c:\users\gökalp\documents\visual studio 2015\Projects\OnlineStrore\OnlineStore\OnlineSotre.Data.Contracts\obj\Debug\OnlineSotre.Data.Contracts.dll
+c:\users\gökalp\documents\visual studio 2015\Projects\OnlineStrore\OnlineStore\OnlineSotre.Data.Contracts\obj\Debug\OnlineSotre.Data.Contracts.pdb
+c:\users\gökalp\documents\visual studio 2015\Projects\OnlineStrore\OnlineStore\OnlineSotre.Data.Contracts\bin\Debug\OnlineStore.Data.Entities.dll
+c:\users\gökalp\documents\visual studio 2015\Projects\OnlineStrore\OnlineStore\OnlineSotre.Data.Contracts\bin\Debug\OnlineStore.Data.Entities.pdb
+c:\users\gökalp\documents\visual studio 2015\Projects\OnlineStrore\OnlineStore\OnlineSotre.Data.Contracts\obj\Debug\OnlineSotre.Data.Contracts.csprojResolveAssemblyReference.cache
